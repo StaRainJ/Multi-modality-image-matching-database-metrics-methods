@@ -1,6 +1,6 @@
 # Multi-modality-image-matching-database-metrics-methods 
 ![Error show](https://github.com/StaRainJ/Multi-modality-image-matching-database-metrics-methods/blob/master/Multimodal_Image_Matching_Datasets/AouthroList.png)
-# This database comes from our survey paper, 'A review of multimodal image matching: Methods and applications' which is still under review.  
+# This database comes from our survey paper, 'A review of multimodal image matching: Methods and applications' Information Fusion 2021.  
 ![Error show](https://github.com/StaRainJ/Multi-modality-image-matching-database-metrics-methods/blob/master/Multimodal_Image_Matching_Datasets/OverviewImagePairs.png)
 The provided database  contains 18 common types of data with ground truth annotation.
 
