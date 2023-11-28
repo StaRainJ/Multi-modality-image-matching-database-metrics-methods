@@ -7,7 +7,7 @@ The provided database  contains 18 common types of data with ground truth annota
   From these collected raw image pairs, we manually label 15 to 20 matched landmarks (i.e., point locations) for each one, which could be used to evaluate the registration accuracy based on the distance of these matched landmarks. We also provide the affine transformation matrix for some image pairs (those intrinsically undergoing linear transformation) so that they can be well registered without any visible misalignment by using these given affine matrices. On the basis of the transformation matrix for each image pair, we can know which two points are matched in the fixed and moving images, and judge whether the matched points created by the feature descriptor are correct or not.
 
 # Citation
-### Please kindly cite this paper if you use the code in this repository as part of a published research project.
+### Please kindly cite this paper if you use the data in this repository as part of a published research project.
 
 ```bash
 @article{jiang2021review,
